@@ -76,7 +76,7 @@ teams:
     members: [brson, alexcrichton, wycats, steveklabnik, nikomatsakis, aturon, pcwalton, huonw]
   - name: Language design
     responsibility: "designing new language features"
-    members: [nrc, pnkfelix, nikomatsakis, aturon, huonw]
+    members: [eddyb, nrc, pnkfelix, nikomatsakis, aturon, huonw]
     lead: nikomatsakis
   - name: Library
     responsibility: "the Rust standard library, rust-lang crates, conventions"
